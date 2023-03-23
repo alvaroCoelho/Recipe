@@ -1,7 +1,7 @@
 # Recipe
 
 Aplicación para ver recetas y su país de origen.
-La aplicación debe contener 3 pantallas principales:
+La aplicación tiene 3 pantallas principales:
 - Lista y buscador de las recetas
 - Detalles de la receta seleccionada 
 - Mapa geolocalización de origen de la receta 
