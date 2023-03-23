@@ -16,7 +16,7 @@ Hilt: proporciona una forma estándar de hacer DI en la aplicación, proporciona
 
 Retrofit: además de permitir una implementación simple y ser uno de los marcos más utilizados en el mercado, con OkHttp es fácil, por ejemplo, interceptar la solicitud y cambiarla de la manera que lo necesite.
 
-Compose: se usó porque tiene una gran reducción de código, la biblioteca de Compose no está acoplada al sistema operativo, como con los componentes actuales, es compatible con los componentes heredados (xml) y compose fue diseñado de manera que podemos construir nuestro interactúa con un sistema de bloques de código pequeños, reutilizables y autónomos.
+Compose: se usó porque tiene una gran reducción de código, la biblioteca de Compose no está acoplada al sistema operativo, como con los componentes actuales, es compatible con los componentes heredados (xml) y compose fue diseñado de manera que podemos construir nuestro interacion con un sistema de bloques de código pequeños, reutilizables y autónomos.
 
 Coroutines -  las corrutinas ayudan a administrar tareas de larga duración que, de lo contrario, podrían bloquear el subproceso principal y hacer que tu app dejara de responder. Más del 50% de los desarrolladores profesionales que usan corrutinas informaron que vieron un aumento en la productividad.
 
