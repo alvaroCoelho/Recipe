@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recipe</string>
+    <string name="title_list_recipes">Lista de Receitas</string>
+    <string name="Loading">Carregando</string>
+    <string name="empty">Vazio</string>
+    <string name="see_on_map">Ver no mapa</string>
+    <string name="search_label">Buscar por receita ou ingrediente</string>
+    <string name="error_connection">Erro de conexão</string>
+    <string name="data_error">Erro de informação</string>
+    <string name="error">Erro</string>
+</resources>

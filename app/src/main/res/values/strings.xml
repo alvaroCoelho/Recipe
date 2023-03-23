@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Recipe</string>
+    <string name="title_list_recipes">List of Recipes</string>
+    <string name="Loading">Loading</string>
+    <string name="empty">Empty</string>
+    <string name="see_on_map">See on map</string>
+    <string name="search_label">Search for recipe name or Ingredient</string>
+    <string name="error_connection">"Connection Error "</string>
+    <string name="data_error">Data error</string>
+    <string name="error">Error</string>
+</resources>
