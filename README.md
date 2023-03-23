@@ -18,6 +18,8 @@ Retrofit: además de permitir una implementación simple y ser uno de los marcos
 
 Compose: se usó porque tiene una gran reducción de código, la biblioteca de Compose no está acoplada al sistema operativo, como con los componentes actuales, es compatible con los componentes heredados (xml) y compose fue diseñado de manera que podemos construir nuestro interactúa con un sistema de bloques de código pequeños, reutilizables y autónomos.
 
+Coroutines -  las corrutinas ayudan a administrar tareas de larga duración que, de lo contrario, podrían bloquear el subproceso principal y hacer que tu app dejara de responder. Más del 50% de los desarrolladores profesionales que usan corrutinas informaron que vieron un aumento en la productividad.
+
 AsyncImage: es un componible que ejecuta una solicitud de imagen de forma asíncrona y muestra el resultado. Admite los mismos argumentos que la imagen compuesta estándar y, además, admite la configuración de marcador de posición/error/pintores alternativos y devoluciones de llamada onLoading/onSuccess/onError. Aquí hay un ejemplo que carga una imagen con un recorte circular, fundido cruzado y establece un marcador de posición.
 
 Pruebas unitarias en UseCase y Repository
