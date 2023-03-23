@@ -8,6 +8,8 @@ La aplicación tiene 3 pantallas principales:
 
 Arquitectura!
 
+![Screenshot_3](https://user-images.githubusercontent.com/2738131/227078583-d8149535-9b33-41a3-b4da-c9f4853eade3.png)
+
 Arquitectura MVVM: elegida porque es una de las arquitecturas más utilizadas en el mercado actual y también porque elimina el fuerte acoplamiento entre cada componente. Más importante aún, en esta arquitectura los hijos no tienen referencia directa al padre, solo son referenciados por observables.
 
 Hilt: proporciona una forma estándar de hacer DI en la aplicación, proporcionando contenedores para cada componente de Android en el proyecto y administrando el ciclo de vida del contenedor automáticamente. Para su uso también se utilizó la Daga.
