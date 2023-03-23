@@ -25,3 +25,5 @@ GoogleMaps API - La app de Google Maps te permite ir a cualquier lugar gracias a
 AsyncImage: es un componible que ejecuta una solicitud de imagen de forma asíncrona y muestra el resultado. Admite los mismos argumentos que la imagen compuesta estándar y, además, admite la configuración de marcador de posición/error/pintores alternativos y devoluciones de llamada onLoading/onSuccess/onError. Aquí hay un ejemplo que carga una imagen con un recorte circular, fundido cruzado y establece un marcador de posición.
 
 Pruebas unitarias en UseCase y Repository
+
+Esta aplicación está disponible en inglés, portugués y español.
